@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-My Dino-1.0";
 const contentToCache = [
     "Build/BuildGame.loader.js",
-    "Build/BuildGame.framework.js.gz",
-    "Build/BuildGame.data.gz",
-    "Build/BuildGame.wasm.gz",
+    "Build/BuildGame.framework.js.br",
+    "Build/BuildGame.data.br",
+    "Build/BuildGame.wasm.br",
     "TemplateData/style.css"
 
 ];
